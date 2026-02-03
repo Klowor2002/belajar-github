@@ -6,7 +6,7 @@ Repo ini dibuat untuk belajar dasar Git & GitHub.
 
 ## Isi
 - Cara buat repository
-- Upload file
+- Upload file dan files baru
 - Commit & update file
 
 ## Author
